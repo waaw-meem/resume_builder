@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Poppins", sans-serif;
+}
+.form {
+	background-color: #1f2228;
+	height: auto;
+	width: 100%;
+}
+.form1 {
+	display: none;
+}
+.form label {
+	font-size: 13px;
+}
+.resume {
+	height: 8.3in;
+	width: 5.8in;
+	background-color: #fff;
+}
+.resume .sid-bar {
+	height: 8.3in;
+	background-color: #283643;
+}
+.resume .sid-bar .profile {
+	margin: 50px auto;
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	border: 2px solid #fff;
+}
+.profile2 {
+	height: 100px;
+	width: 100px;
+}
+.sid-bar h6 {
+	font-size: 10px;
+	letter-spacing: 2px;
+	padding-bottom: 5px;
+	width: 20px;
+	border-bottom: 1px solid #fff;
+}
+.sid-bar .fa {
+	font-size: 10px;
+	background-color: #fff;
+	padding: 4px 6px;
+	border-radius: 50%;
+}
+p {
+	font-size: 10px;
+	color: #a4a4a4;
+}
+.header {
+	background-color: #e3e5e8;
+	height: 180px;
+}
+.header h2 {
+	font-weight: 600;
+	letter-spacing: 2px;
+	color: #1f2228;
+	padding-top: 45px;
+	text-transform: uppercase;
+}
+.header h6 {
+	font-size: 13px;
+	color: #1f2228;
+	letter-spacing: 2px;
+	font-weight: 500;
+}
+.header .border1 {
+	height: 1px;
+	width: 40%;
+	margin: 20px auto;
+	background-color: #1f2228;
+}
+.body h6 {
+	font-size: 13px;
+	color: #555;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+.body h5 {
+	font-size: 15px;
+	color: #444;
+	letter-spacing: 1px;
+	font-weight: 700;
+	border-bottom: 1px solid #444;
+	width: 10%;
+	padding-bottom: 5px;
+}
+.body p {
+	font-size: 10px;
+	color: #444;
+	letter-spacing: 1px;
+}
+.container-fluid {
+	display: none;
+}
+.container-fluid1 {
+	background-color: #1f2228;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 120vh;
+}
